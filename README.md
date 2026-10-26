@@ -2,7 +2,7 @@
 
 适合在澳留学生、开发者和日常生活使用的免费资源。每条都说明能得到什么、适用范围、限制和官方入口。全球在线资源也可在澳洲学习时使用；本清单不是澳洲专属优惠合集。
 
-由 [薅羊毛 · 澳洲好机会](https://deals.jracademy.ai/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh)（匠人学院出品）整理维护。想继续浏览澳洲免费资源与生活优惠，可以打开网站；无需先注册即可浏览公开内容。
+由薅羊毛 · 澳洲好机会（匠人学院出品）整理维护。想看完整参与步骤、资格说明与相关优惠，可以打开 [澳洲免费资源与优惠目录](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=readme_intro)；公开说明无需先注册即可阅读。
 
 [English edition](https://github.com/JR-Academy-AI/awesome-australia-free-resources) · [贡献资源](CONTRIBUTING.md) · [报告失效资源](https://github.com/JR-Academy-AI/awesome-australia-free-resources-zh/issues/new?template=broken-resource.yml)
 
@@ -46,6 +46,7 @@
 - **条件与限制：** 须通过学生资格验证；各合作方有独立期限、额度和条款，不是所有服务永久免费。
 - **官方来源：** [GitHub Student Developer Pack](https://education.github.com/pack)
 - **核实日期：** 2026-10-26
+- **中文操作指南：** [GitHub 学生包的申请步骤与合作方限制](https://deals.jracademy.ai/free-resources/example-github-pack/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=resource_github-student)（薅羊毛整理，非提供方官方页面）
 
 <a id="jetbrains-student"></a>
 
@@ -57,6 +58,7 @@
 - **条件与限制：** 需验证学生身份；教育许可限非商业教育用途，不能当作商业开发许可。不要将其他付费课程或 AI 服务视为已包含。
 - **官方来源：** [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/)
 - **核实日期：** 2026-10-26
+- **中文操作指南：** [JetBrains 教育许可的资格与使用限制](https://deals.jracademy.ai/free-resources/example-jetbrains-education/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=resource_jetbrains-student)（薅羊毛整理，非提供方官方页面）
 
 <a id="azure-student"></a>
 
@@ -68,6 +70,7 @@
 - **条件与限制：** 这是有资格、期限和用量限制的云额度，不是无限免费服务器；申请前查清资格与服务额度。
 - **官方来源：** [Azure for Students](https://azure.microsoft.com/en-au/free/students)
 - **核实日期：** 2026-10-26
+- **中文操作指南：** [Azure 学生额度的申请步骤与使用条件](https://deals.jracademy.ai/free-resources/example-azure-student/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=resource_azure-student)（薅羊毛整理，非提供方官方页面）
 
 <a id="aws-educate"></a>
 
@@ -116,6 +119,7 @@
 - **条件与限制：** 需要自己完成练习；学习记录或证书不等于学历、职业资格或就业保证。
 - **官方来源：** [freeCodeCamp](https://www.freecodecamp.org/learn)
 - **核实日期：** 2026-10-26
+- **中文操作指南：** [freeCodeCamp 课程、练习与项目要求](https://deals.jracademy.ai/free-resources/example-freecodecamp/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=resource_freecodecamp)（薅羊毛整理，非提供方官方页面）
 
 <a id="cs50"></a>
 
@@ -127,6 +131,7 @@
 - **条件与限制：** 开放课程可免费学习；付费认证、学分及其他课程选项需单独核对，不等于哈佛学籍。
 - **官方来源：** [Harvard CS50x](https://cs50.harvard.edu/x/)
 - **核实日期：** 2026-10-26
+- **中文操作指南：** [CS50 免费学习与证书要求的区别](https://deals.jracademy.ai/free-resources/example-cs50-certificate/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=resource_cs50)（薅羊毛整理，非提供方官方页面）
 
 <a id="mit-ocw"></a>
 
@@ -334,6 +339,7 @@
 - **条件与限制：** 普通入馆免费，主要特别展览可能收费；交通、停车与餐饮不包含。
 - **官方来源：** [Australian Museum](https://australian.museum/visit/)
 - **核实日期：** 2026-10-26
+- **中文操作指南：** [Australian Museum 免费范围与参观说明](https://deals.jracademy.ai/free-resources/example-australian-museum/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=resource_australian-museum)（薅羊毛整理，非提供方官方页面）
 
 <a id="queensland-museum"></a>
 
@@ -345,6 +351,7 @@
 - **条件与限制：** SparkLab、部分展览与活动收费；出发前查开放情况，不把所有体验视为免费。
 - **官方来源：** [Queensland Museum Kurilpa](https://www.museum.qld.gov.au/kurilpa/plan-your-visit/hours-and-admission)
 - **核实日期：** 2026-10-26
+- **中文操作指南：** [Queensland Museum 免费入馆与收费项目区别](https://deals.jracademy.ai/free-resources/example-queensland-museum/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=resource_queensland-museum)（薅羊毛整理，非提供方官方页面）
 
 <a id="ngv"></a>
 
@@ -444,6 +451,11 @@
 - **条件与限制：** 免费普通入馆不包括所有特展、活动、餐饮或停车；具体项目收费与开放情况出发前核对。
 - **官方来源：** [National Museum of Australia](https://www.nma.gov.au/visit)
 - **核实日期：** 2026-10-26
+
+## 看完清单，继续找适合自己的资源
+
+打开 [薅羊毛的澳洲免费资源与优惠目录](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=readme_footer)，先读具体资源的完整条件和参与步骤，再前往官方来源。目录包含提前整理的公开资料；最新价格、资格与开放情况仍须到提供方核对。无需为了看公开说明先注册。
+
 
 ## 收录与维护
 
