@@ -1,10 +1,10 @@
-# 澳洲免费资源指南
+# 薅羊毛｜澳洲免费资源指南
 
 适合在澳留学生、开发者和日常生活使用的免费资源。每条都说明能得到什么、适用范围、限制和官方入口。全球在线资源也可在澳洲学习时使用；本清单不是澳洲专属优惠合集。
 
 由薅羊毛 · 澳洲好机会（匠人学院出品）整理维护。想看完整参与步骤、资格说明与相关优惠，可以打开 [澳洲免费资源与优惠目录](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=readme_intro)；公开说明无需先注册即可阅读。
 
-[English edition](https://github.com/JR-Academy-AI/awesome-australia-free-resources) · [贡献资源](CONTRIBUTING.md) · [报告失效资源](https://github.com/JR-Academy-AI/awesome-australia-free-resources-zh/issues/new?template=broken-resource.yml)
+[English edition](https://github.com/JR-Academy-AI/haoyangmao-australia-free-resources) · [贡献资源](CONTRIBUTING.md) · [报告失效资源](https://github.com/JR-Academy-AI/haoyangmao-australia-free-resources-zh/issues/new?template=broken-resource.yml)
 
 共 **35 条资源**。最后一次编辑核实：**2026-10-26（澳洲布里斯班日期）**。核实指查看官方公开说明，不代表逐一完成注册、资格审批、课程或现场体验，也不代表之后持续监测。资源条目可直接在下方完整阅读，不必跳转薅羊毛才能看到清单。
 
