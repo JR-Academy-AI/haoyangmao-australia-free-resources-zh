@@ -6,7 +6,7 @@
 
 1. 提供官方或原始来源，说明哪些内容免费、谁可用、地区、注册要求及收费限制。
 2. 简介用自己的话写，不复制第三方正文、图片或商标，不使用返佣或短链接。
-3. 更新 resources.json 和 README.md；JSON 使用现有字段，category 从 student、learn、life、library、visit 中选择，checkedAt 写实际核实的 YYYY-MM-DD。不要仅为显得新而改日期。
+3. 更新 resources.json 和 README.md；JSON 使用现有字段，category 从 student、learn、life、english、digital、library、visit 中选择，checkedAt 写实际核实的 YYYY-MM-DD。不要仅为显得新而改日期。
 4. 同时检查另一个语言仓库是否需要相同修正，用相同资源 ID，并在 PR 中说明另一版状态。维护者没有复核前，不宣称两版已经同步。
 5. PR 说明核实的官方页面、日期、修改原因和未能确认的限制。不要公开身份材料、学生证、账号、订单或联系方式。
 

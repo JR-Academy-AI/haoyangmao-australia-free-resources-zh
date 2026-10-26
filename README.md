@@ -6,19 +6,37 @@
 
 [English edition](https://github.com/JR-Academy-AI/awesome-australia-free-resources) · [贡献资源](CONTRIBUTING.md) · [报告失效资源](https://github.com/JR-Academy-AI/awesome-australia-free-resources-zh/issues/new?template=broken-resource.yml)
 
-首版 **20 条资源**。最后一次编辑核实：**2026-10-26（澳洲布里斯班日期）**。核实指查看官方公开说明，不代表逐一完成注册、资格审批、课程或现场体验，也不代表之后持续监测。资源条目可直接在下方完整阅读，不必跳转薅羊毛才能看到清单。
+共 **35 条资源**。最后一次编辑核实：**2026-10-26（澳洲布里斯班日期）**。核实指查看官方公开说明，不代表逐一完成注册、资格审批、课程或现场体验，也不代表之后持续监测。资源条目可直接在下方完整阅读，不必跳转薅羊毛才能看到清单。
+
+## 按需求快速开始
+
+| 我现在想做什么 | 可以先打开 | 第一步 |
+|---|---|---|
+| 练澳洲生活英语 | [SBS Learn English](#sbs-english) | 选一集适合程度的播客，听完再用配套材料练习 |
+| 看是否符合免费英语课程资格 | [AMEP](#amep) | 从官方页面找服务提供方，先核实资格再报名 |
+| 用学生身份练开发 | [学生工具与云学习](#student) | 先核实学生资格与许可，再选项目真正需要的工具 |
+| 免费学网页与 Python | [编程与技术学习](#learn) | 选 MDN 或 Python 官方教程，跟着完成一个练习 |
+| 在家读电子书或上课程 | [图书馆与电子资源](#library) | 先选居住州的图书馆，查看住址与远程访问条件 |
+| 带家人找免费室内活动 | [免费场馆与公众导览](#visit) | 选城市，核对普通入馆、特展和预约是否分别收费 |
+| 帮家人学手机、保护账户 | [Be Connected](#be-connected) | 按手机系统选入门课；安全设置可接着看 Cyber.gov.au |
+
+免费自学、资格权益、限额云服务、免费普通入馆是不同类型；先读条目限制，再去官方入口操作。
 
 ## 目录
 
 - [学生工具与云学习](#student)
 - [免费编程与技术学习](#learn)
 - [澳洲生活与权益信息](#life)
+- [免费英语学习](#english)
+- [数字技能与网络安全](#digital)
 - [图书馆与电子资源](#library)
-- [免费场馆与文化活动](#visit)
+- [免费场馆与公众导览](#visit)
 
 <a id="student"></a>
 
 ## 学生工具与云学习
+
+<a id="github-student"></a>
 
 ### GitHub Student Developer Pack
 
@@ -29,6 +47,8 @@
 - **官方来源：** [GitHub Student Developer Pack](https://education.github.com/pack)
 - **核实日期：** 2026-10-26
 
+<a id="jetbrains-student"></a>
+
 ### JetBrains Student Pack
 
 符合资格的学生可申请教育用途的 IDE 许可。
@@ -38,6 +58,8 @@
 - **官方来源：** [JetBrains Student Pack](https://www.jetbrains.com/academy/student-pack/)
 - **核实日期：** 2026-10-26
 
+<a id="azure-student"></a>
+
 ### Azure for Students
 
 符合条件的大学生可申请学生云账户，用额度练习部署项目。
@@ -46,6 +68,8 @@
 - **条件与限制：** 这是有资格、期限和用量限制的云额度，不是无限免费服务器；申请前查清资格与服务额度。
 - **官方来源：** [Azure for Students](https://azure.microsoft.com/en-au/free/students)
 - **核实日期：** 2026-10-26
+
+<a id="aws-educate"></a>
 
 ### AWS Educate
 
@@ -60,6 +84,8 @@
 
 ## 免费编程与技术学习
 
+<a id="microsoft-learn"></a>
+
 ### Microsoft Learn
 
 按模块学习 Microsoft 技术，适合先看内容再决定是否考证。
@@ -68,6 +94,8 @@
 - **条件与限制：** 自学模块可免费阅读；认证考试、讲师培训及自建云资源可能收费。
 - **官方来源：** [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 - **核实日期：** 2026-10-26
+
+<a id="mdn"></a>
 
 ### MDN Learn Web Development
 
@@ -78,6 +106,8 @@
 - **官方来源：** [MDN Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn_web_development)
 - **核实日期：** 2026-10-26
 
+<a id="freecodecamp"></a>
+
 ### freeCodeCamp
 
 用交互练习和项目学习编程，按课程要求完成自己的作品。
@@ -86,6 +116,8 @@
 - **条件与限制：** 需要自己完成练习；学习记录或证书不等于学历、职业资格或就业保证。
 - **官方来源：** [freeCodeCamp](https://www.freecodecamp.org/learn)
 - **核实日期：** 2026-10-26
+
+<a id="cs50"></a>
 
 ### Harvard CS50x
 
@@ -96,6 +128,8 @@
 - **官方来源：** [Harvard CS50x](https://cs50.harvard.edu/x/)
 - **核实日期：** 2026-10-26
 
+<a id="mit-ocw"></a>
+
 ### MIT OpenCourseWare
 
 免费阅读 MIT 公开课程材料，按具体课程选择讲义、作业或视频。
@@ -105,6 +139,8 @@
 - **官方来源：** [MIT OpenCourseWare](https://ocw.mit.edu/)
 - **核实日期：** 2026-10-26
 
+<a id="python-tutorial"></a>
+
 ### The Python Tutorial
 
 跟随官方教程练习 Python 语法、数据结构、模块和异常处理。
@@ -113,6 +149,8 @@
 - **条件与限制：** 更适合已有基本编程概念的人；阅读时核对文档版本与本机 Python 版本。
 - **官方来源：** [The Python Tutorial](https://docs.python.org/3/tutorial/)
 - **核实日期：** 2026-10-26
+
+<a id="pro-git"></a>
 
 ### Pro Git
 
@@ -127,6 +165,8 @@
 
 ## 澳洲生活与权益信息
 
+<a id="study-australia"></a>
+
 ### Study Australia — Living and education costs
 
 查看官方生活与学习成本信息，为来澳前做预算提供起点。
@@ -135,6 +175,8 @@
 - **条件与限制：** 免费的是信息；不代表生活费、学费免费，也不保证个人预算或签证要求。
 - **官方来源：** [Study Australia — Living and education costs](https://www.studyaustralia.gov.au/en/life-in-australia/living-and-education-costs)
 - **核实日期：** 2026-10-26
+
+<a id="fair-work"></a>
 
 ### Fair Work Ombudsman — Visa holders and migrants
 
@@ -145,6 +187,8 @@
 - **官方来源：** [Fair Work Ombudsman — Visa holders and migrants](https://www.fairwork.gov.au/find-help-for/visa-holders-migrants)
 - **核实日期：** 2026-10-26
 
+<a id="scamwatch"></a>
+
 ### Scamwatch
 
 了解常见骗局、识别方法和官方报告渠道。
@@ -153,6 +197,8 @@
 - **条件与限制：** 信息与报告入口不保证追回款项；不在公开 Issue 中提交个人资料或交易证据。
 - **官方来源：** [Scamwatch](https://www.scamwatch.gov.au/)
 - **核实日期：** 2026-10-26
+
+<a id="accc-consumers"></a>
 
 ### ACCC — Consumers
 
@@ -163,9 +209,74 @@
 - **官方来源：** [ACCC — Consumers](https://www.accc.gov.au/consumers)
 - **核实日期：** 2026-10-26
 
+<a id="english"></a>
+
+## 免费英语学习
+
+<a id="sbs-english"></a>
+
+### SBS Learn English
+
+通过免费的澳洲生活场景播客、视频和练习材料练英语，可选择适合自己程度的系列。
+
+- **适用地区：** Online / Australia
+- **条件与限制：** 这是自学材料，不是考试培训或成绩保证；部分内容难度不同，先从标注 Easy 的系列试起。
+- **官方来源：** [SBS Learn English](https://www.sbs.com.au/language/english/en/learn-english)
+- **核实日期：** 2026-10-26
+
+<a id="amep"></a>
+
+### Adult Migrant English Program (AMEP)
+
+符合条件的移民和人道主义入境者可通过政府项目免费学习英语，并查找所在地区的服务提供方。
+
+- **适用地区：** Australia
+- **条件与限制：** 不是面向所有留学生或所有签证的普遍福利；资格、安排和可用支持由官方及服务提供方核实，清单不作个人资格判断。
+- **官方来源：** [Adult Migrant English Program (AMEP)](https://immi.homeaffairs.gov.au/settling-in-australia/amep/about-the-program)
+- **核实日期：** 2026-10-26
+
+<a id="digital"></a>
+
+## 数字技能与网络安全
+
+<a id="be-connected"></a>
+
+### Be Connected
+
+免费短课讲解手机、电脑、线上服务与安全，适合数码入门，也可帮家人找到易读教程。
+
+- **适用地区：** Online / Australia
+- **条件与限制：** 主要面向数字技能入门，不能替代专业技术支持；按自己的设备系统选择课程，注册与活动要求单独查看。
+- **官方来源：** [Be Connected](https://beconnected.esafety.gov.au/)
+- **核实日期：** 2026-10-26
+
+<a id="esafety"></a>
+
+### eSafety Commissioner — Online safety
+
+查阅网络安全、隐私、平台设置和线上伤害的公开指南，按成人、家长或年轻人等入口找内容。
+
+- **适用地区：** Online / Australia
+- **条件与限制：** 收录的是免费公开信息，报告处理有独立范围与条件，不保证个案处理结果；不要在 GitHub 公开私人材料。
+- **官方来源：** [eSafety Commissioner — Online safety](https://www.esafety.gov.au/)
+- **核实日期：** 2026-10-26
+
+<a id="cyber-security"></a>
+
+### Cyber.gov.au — Personal cyber security
+
+使用官方个人网络安全资料，逐项检查设备、账户与个人信息的保护措施。
+
+- **适用地区：** Online / Australia
+- **条件与限制：** 公开指南可免费阅读；按设备和服务的实际设置执行，不提供个人设备维修或账户恢复保证。
+- **官方来源：** [Cyber.gov.au — Personal cyber security](https://www.cyber.gov.au/protect-yourself-and-your-family-online)
+- **核实日期：** 2026-10-26
+
 <a id="library"></a>
 
 ## 图书馆与电子资源
+
+<a id="slv"></a>
 
 ### State Library Victoria — Free Access
 
@@ -176,6 +287,8 @@
 - **官方来源：** [State Library Victoria — Free Access](https://www.slv.vic.gov.au/membership/)
 - **核实日期：** 2026-10-26
 
+<a id="slq"></a>
+
 ### State Library of Queensland — Membership
 
 了解免费会员及电子书、报刊和在线课程；昆州居民可查远程访问资格。
@@ -185,9 +298,33 @@
 - **官方来源：** [State Library of Queensland — Membership](https://www.slq.qld.gov.au/services/membership)
 - **核实日期：** 2026-10-26
 
+<a id="slnsw"></a>
+
+### State Library of New South Wales — Library card
+
+免费申请新州州立图书馆卡；新州居民可核实在家使用电子书、数据库与期刊的条件。
+
+- **适用地区：** New South Wales
+- **条件与限制：** 在家访问电子资源限新州居民，可能需要有效新州住址；其他地区申请者须按规定到馆领卡及使用资源，打印等服务另查收费。
+- **官方来源：** [State Library of New South Wales — Library card](https://www.service.nsw.gov.au/transaction/apply-for-a-state-library-card)
+- **核实日期：** 2026-10-26
+
+<a id="sydney-library"></a>
+
+### City of Sydney Library
+
+新州居民可加入免费会员，州际与海外访客可查看免费月度会员；在馆使用网络并了解借阅资源。
+
+- **适用地区：** Sydney, NSW
+- **条件与限制：** 访客借阅有限制；打印、补卡、部分电脑使用和制作设备等可收费，免费会员不代表所有服务免费。
+- **官方来源：** [City of Sydney Library](https://www.cityofsydney.nsw.gov.au/lists-maps-inventories/fees-charges-joining-using-library)
+- **核实日期：** 2026-10-26
+
 <a id="visit"></a>
 
-## 免费场馆与文化活动
+## 免费场馆与公众导览
+
+<a id="australian-museum"></a>
 
 ### Australian Museum
 
@@ -198,6 +335,8 @@
 - **官方来源：** [Australian Museum](https://australian.museum/visit/)
 - **核实日期：** 2026-10-26
 
+<a id="queensland-museum"></a>
+
 ### Queensland Museum Kurilpa
 
 在布里斯班安排一次免费普通入馆，参观馆藏展区。
@@ -207,6 +346,8 @@
 - **官方来源：** [Queensland Museum Kurilpa](https://www.museum.qld.gov.au/kurilpa/plan-your-visit/hours-and-admission)
 - **核实日期：** 2026-10-26
 
+<a id="ngv"></a>
+
 ### National Gallery of Victoria
 
 在墨尔本免费参观 NGV International 或 NGV Australia 的普通展区。
@@ -214,6 +355,94 @@
 - **适用地区：** Melbourne, Victoria
 - **条件与限制：** 特别展览可能收费，部分展厅可能临时关闭；出发前查展览与开放情况。
 - **官方来源：** [National Gallery of Victoria](https://www.ngv.vic.gov.au/plan-your-visit/)
+- **核实日期：** 2026-10-26
+
+<a id="nga"></a>
+
+### National Gallery of Australia
+
+在堪培拉免费参观常设馆藏与可开放的花园，出发前查看展厅和户外作品开放情况。
+
+- **适用地区：** Canberra, ACT
+- **条件与限制：** 部分大型展览售票，停车可能收费；部分花园或作品可能因维护暂不开放。
+- **官方来源：** [National Gallery of Australia](https://nga.gov.au/visit/)
+- **核实日期：** 2026-10-26
+
+<a id="agsa"></a>
+
+### Art Gallery of South Australia
+
+在阿德莱德免费参观普通馆藏，查找当天可参加的免费导览。
+
+- **适用地区：** Adelaide, South Australia
+- **条件与限制：** 部分展览收费；免费导览取决于志愿讲解员和当天安排，交通、餐饮另计。
+- **官方来源：** [Art Gallery of South Australia](https://www.agsa.sa.gov.au/visit/)
+- **核实日期：** 2026-10-26
+
+<a id="qagoma"></a>
+
+### Queensland Art Gallery | Gallery of Modern Art
+
+在布里斯班免费参观 QAG 和 GOMA 的普通展区及儿童艺术中心，选择适合自己的展览。
+
+- **适用地区：** Brisbane, Queensland
+- **条件与限制：** 部分展览、特别活动和电影场次收费；按具体项目确认，不把整个日程视为免费。
+- **官方来源：** [Queensland Art Gallery | Gallery of Modern Art](https://www.qagoma.qld.gov.au/visit/)
+- **核实日期：** 2026-10-26
+
+<a id="acmi"></a>
+
+### ACMI — The Story of the Moving Image
+
+在墨尔本免费体验电影、电视与游戏文化主题常设展，包含可互动的展项。
+
+- **适用地区：** Melbourne, Victoria
+- **条件与限制：** 免费范围是该展览；其他展览、电影和活动需分别查票价，互动设施可用性以现场为准。
+- **官方来源：** [ACMI — The Story of the Moving Image](https://www.acmi.net.au/whats-on/story-of-the-moving-image-exhibition/)
+- **核实日期：** 2026-10-26
+
+<a id="nsw-parliament"></a>
+
+### Parliament of NSW — Public tours
+
+在悉尼参加免费公众导览，了解议会建筑、历史与运作，先选择官方公布的场次。
+
+- **适用地区：** Sydney, NSW
+- **条件与限制：** 建议提前预约；开放日、公共假期及议事安排会影响场次，议事厅和历史房间开放以当天为准。
+- **官方来源：** [Parliament of NSW — Public tours](https://www.parliament.nsw.gov.au/visit-parliament/parliament-tours)
+- **核实日期：** 2026-10-26
+
+<a id="tas-parliament"></a>
+
+### Parliament of Tasmania — Tours
+
+在霍巴特参加免费议会导览，了解建筑与议会工作，先按议事日历确认是否开放。
+
+- **适用地区：** Hobart, Tasmania
+- **条件与限制：** 参观需参加导览；通常安排在非议事工作日，建议预约，超过 12 人的团体必须预约。
+- **官方来源：** [Parliament of Tasmania — Tours](https://parliament.tas.gov.au/visit-and-learn/tours)
+- **核实日期：** 2026-10-26
+
+<a id="war-memorial"></a>
+
+### Australian War Memorial
+
+在堪培拉免费参观纪念馆与历史展区，按开放地图规划想看的馆藏。
+
+- **适用地区：** Canberra, ACT
+- **条件与限制：** 当前官方说明普通入馆无需票；学校、团体或特别项目须单独核实安排，部分历史内容可能令人不适。
+- **官方来源：** [Australian War Memorial](https://www.awm.gov.au/visit)
+- **核实日期：** 2026-10-26
+
+<a id="national-museum"></a>
+
+### National Museum of Australia
+
+在堪培拉免费参观普通展区，通过馆藏了解澳大利亚的历史与社会生活。
+
+- **适用地区：** Canberra, ACT
+- **条件与限制：** 免费普通入馆不包括所有特展、活动、餐饮或停车；具体项目收费与开放情况出发前核对。
+- **官方来源：** [National Museum of Australia](https://www.nma.gov.au/visit)
 - **核实日期：** 2026-10-26
 
 ## 收录与维护
@@ -226,6 +455,6 @@
 
 ## 可复用数据与许可
 
-[resources.json](resources.json) 包含与本页一致的 20 条结构化条目，便于筛选和复用。它是资源目录，不是实时库存、官方接口或资格判断服务。中文和英文仓库按相同资源 ID 对应；日期与事实变更须在两个仓库分别复核更新。
+[resources.json](resources.json) 包含与本页一致的 35 条结构化条目，便于筛选和复用。它是资源目录，不是实时库存、官方接口或资格判断服务。中文和英文仓库按相同资源 ID 对应；日期与事实变更须在两个仓库分别复核更新。
 
 本仓库原创文字与目录数据采用 [CC BY 4.0](LICENSE.md)，署名 JR Academy，并注明改动。链接目标、商标、第三方课程、图片及文档保留各自权利；本许可不授予其转载权。仓库不包含第三方正文、品牌图片或 App 源码。

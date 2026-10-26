@@ -201,6 +201,156 @@
       "checkedAt": "2026-10-26",
       "description": "在墨尔本免费参观 NGV International 或 NGV Australia 的普通展区。",
       "limits": "特别展览可能收费，部分展厅可能临时关闭；出发前查展览与开放情况。"
+    },
+    {
+      "id": "sbs-english",
+      "category": "english",
+      "name": "SBS Learn English",
+      "url": "https://www.sbs.com.au/language/english/en/learn-english",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "通过免费的澳洲生活场景播客、视频和练习材料练英语，可选择适合自己程度的系列。",
+      "limits": "这是自学材料，不是考试培训或成绩保证；部分内容难度不同，先从标注 Easy 的系列试起。"
+    },
+    {
+      "id": "amep",
+      "category": "english",
+      "name": "Adult Migrant English Program (AMEP)",
+      "url": "https://immi.homeaffairs.gov.au/settling-in-australia/amep/about-the-program",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "符合条件的移民和人道主义入境者可通过政府项目免费学习英语，并查找所在地区的服务提供方。",
+      "limits": "不是面向所有留学生或所有签证的普遍福利；资格、安排和可用支持由官方及服务提供方核实，清单不作个人资格判断。"
+    },
+    {
+      "id": "be-connected",
+      "category": "digital",
+      "name": "Be Connected",
+      "url": "https://beconnected.esafety.gov.au/",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "免费短课讲解手机、电脑、线上服务与安全，适合数码入门，也可帮家人找到易读教程。",
+      "limits": "主要面向数字技能入门，不能替代专业技术支持；按自己的设备系统选择课程，注册与活动要求单独查看。"
+    },
+    {
+      "id": "esafety",
+      "category": "digital",
+      "name": "eSafety Commissioner — Online safety",
+      "url": "https://www.esafety.gov.au/",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "查阅网络安全、隐私、平台设置和线上伤害的公开指南，按成人、家长或年轻人等入口找内容。",
+      "limits": "收录的是免费公开信息，报告处理有独立范围与条件，不保证个案处理结果；不要在 GitHub 公开私人材料。"
+    },
+    {
+      "id": "cyber-security",
+      "category": "digital",
+      "name": "Cyber.gov.au — Personal cyber security",
+      "url": "https://www.cyber.gov.au/protect-yourself-and-your-family-online",
+      "region": "Online / Australia",
+      "checkedAt": "2026-10-26",
+      "description": "使用官方个人网络安全资料，逐项检查设备、账户与个人信息的保护措施。",
+      "limits": "公开指南可免费阅读；按设备和服务的实际设置执行，不提供个人设备维修或账户恢复保证。"
+    },
+    {
+      "id": "slnsw",
+      "category": "library",
+      "name": "State Library of New South Wales — Library card",
+      "url": "https://www.service.nsw.gov.au/transaction/apply-for-a-state-library-card",
+      "region": "New South Wales",
+      "checkedAt": "2026-10-26",
+      "description": "免费申请新州州立图书馆卡；新州居民可核实在家使用电子书、数据库与期刊的条件。",
+      "limits": "在家访问电子资源限新州居民，可能需要有效新州住址；其他地区申请者须按规定到馆领卡及使用资源，打印等服务另查收费。"
+    },
+    {
+      "id": "sydney-library",
+      "category": "library",
+      "name": "City of Sydney Library",
+      "url": "https://www.cityofsydney.nsw.gov.au/lists-maps-inventories/fees-charges-joining-using-library",
+      "region": "Sydney, NSW",
+      "checkedAt": "2026-10-26",
+      "description": "新州居民可加入免费会员，州际与海外访客可查看免费月度会员；在馆使用网络并了解借阅资源。",
+      "limits": "访客借阅有限制；打印、补卡、部分电脑使用和制作设备等可收费，免费会员不代表所有服务免费。"
+    },
+    {
+      "id": "nga",
+      "category": "visit",
+      "name": "National Gallery of Australia",
+      "url": "https://nga.gov.au/visit/",
+      "region": "Canberra, ACT",
+      "checkedAt": "2026-10-26",
+      "description": "在堪培拉免费参观常设馆藏与可开放的花园，出发前查看展厅和户外作品开放情况。",
+      "limits": "部分大型展览售票，停车可能收费；部分花园或作品可能因维护暂不开放。"
+    },
+    {
+      "id": "agsa",
+      "category": "visit",
+      "name": "Art Gallery of South Australia",
+      "url": "https://www.agsa.sa.gov.au/visit/",
+      "region": "Adelaide, South Australia",
+      "checkedAt": "2026-10-26",
+      "description": "在阿德莱德免费参观普通馆藏，查找当天可参加的免费导览。",
+      "limits": "部分展览收费；免费导览取决于志愿讲解员和当天安排，交通、餐饮另计。"
+    },
+    {
+      "id": "qagoma",
+      "category": "visit",
+      "name": "Queensland Art Gallery | Gallery of Modern Art",
+      "url": "https://www.qagoma.qld.gov.au/visit/",
+      "region": "Brisbane, Queensland",
+      "checkedAt": "2026-10-26",
+      "description": "在布里斯班免费参观 QAG 和 GOMA 的普通展区及儿童艺术中心，选择适合自己的展览。",
+      "limits": "部分展览、特别活动和电影场次收费；按具体项目确认，不把整个日程视为免费。"
+    },
+    {
+      "id": "acmi",
+      "category": "visit",
+      "name": "ACMI — The Story of the Moving Image",
+      "url": "https://www.acmi.net.au/whats-on/story-of-the-moving-image-exhibition/",
+      "region": "Melbourne, Victoria",
+      "checkedAt": "2026-10-26",
+      "description": "在墨尔本免费体验电影、电视与游戏文化主题常设展，包含可互动的展项。",
+      "limits": "免费范围是该展览；其他展览、电影和活动需分别查票价，互动设施可用性以现场为准。"
+    },
+    {
+      "id": "nsw-parliament",
+      "category": "visit",
+      "name": "Parliament of NSW — Public tours",
+      "url": "https://www.parliament.nsw.gov.au/visit-parliament/parliament-tours",
+      "region": "Sydney, NSW",
+      "checkedAt": "2026-10-26",
+      "description": "在悉尼参加免费公众导览，了解议会建筑、历史与运作，先选择官方公布的场次。",
+      "limits": "建议提前预约；开放日、公共假期及议事安排会影响场次，议事厅和历史房间开放以当天为准。"
+    },
+    {
+      "id": "tas-parliament",
+      "category": "visit",
+      "name": "Parliament of Tasmania — Tours",
+      "url": "https://parliament.tas.gov.au/visit-and-learn/tours",
+      "region": "Hobart, Tasmania",
+      "checkedAt": "2026-10-26",
+      "description": "在霍巴特参加免费议会导览，了解建筑与议会工作，先按议事日历确认是否开放。",
+      "limits": "参观需参加导览；通常安排在非议事工作日，建议预约，超过 12 人的团体必须预约。"
+    },
+    {
+      "id": "war-memorial",
+      "category": "visit",
+      "name": "Australian War Memorial",
+      "url": "https://www.awm.gov.au/visit",
+      "region": "Canberra, ACT",
+      "checkedAt": "2026-10-26",
+      "description": "在堪培拉免费参观纪念馆与历史展区，按开放地图规划想看的馆藏。",
+      "limits": "当前官方说明普通入馆无需票；学校、团体或特别项目须单独核实安排，部分历史内容可能令人不适。"
+    },
+    {
+      "id": "national-museum",
+      "category": "visit",
+      "name": "National Museum of Australia",
+      "url": "https://www.nma.gov.au/visit",
+      "region": "Canberra, ACT",
+      "checkedAt": "2026-10-26",
+      "description": "在堪培拉免费参观普通展区，通过馆藏了解澳大利亚的历史与社会生活。",
+      "limits": "免费普通入馆不包括所有特展、活动、餐饮或停车；具体项目收费与开放情况出发前核对。"
     }
   ]
 }
