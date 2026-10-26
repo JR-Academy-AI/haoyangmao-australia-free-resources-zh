@@ -1,0 +1,24 @@
+name: 报告失效或信息变化
+description: 指出失效链接、资格或收费变化。
+body:
+  - type: markdown
+    attributes:
+      value: 请勿提交任何个人资料、凭据或私人证据。
+  - type: textarea
+    id: resource
+    attributes:
+      label: 资源名称 / ID
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 官方来源 URL
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 具体内容、限制与核实日期
+    validations:
+      required: true

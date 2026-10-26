@@ -1,0 +1,206 @@
+{
+  "language": "zh",
+  "editorialCheckedAt": "2026-10-26",
+  "resources": [
+    {
+      "id": "github-student",
+      "category": "student",
+      "name": "GitHub Student Developer Pack",
+      "url": "https://education.github.com/pack",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "申请学生开发工具权益，按自己的项目选择需要的工具。",
+      "limits": "须通过学生资格验证；各合作方有独立期限、额度和条款，不是所有服务永久免费。"
+    },
+    {
+      "id": "jetbrains-student",
+      "category": "student",
+      "name": "JetBrains Student Pack",
+      "url": "https://www.jetbrains.com/academy/student-pack/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "符合资格的学生可申请教育用途的 IDE 许可。",
+      "limits": "需验证学生身份；教育许可限非商业教育用途，不能当作商业开发许可。不要将其他付费课程或 AI 服务视为已包含。"
+    },
+    {
+      "id": "azure-student",
+      "category": "student",
+      "name": "Azure for Students",
+      "url": "https://azure.microsoft.com/en-au/free/students",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "符合条件的大学生可申请学生云账户，用额度练习部署项目。",
+      "limits": "这是有资格、期限和用量限制的云额度，不是无限免费服务器；申请前查清资格与服务额度。"
+    },
+    {
+      "id": "aws-educate",
+      "category": "student",
+      "name": "AWS Educate",
+      "url": "https://aws.amazon.com/education/awseducate/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "通过免费的自学课程和动手实验了解云计算。",
+      "limits": "需要注册，年龄等条件以官方为准；Educate 实验与普通 AWS 付费账户不同，不代表 AWS 服务全部免费。"
+    },
+    {
+      "id": "microsoft-learn",
+      "category": "learn",
+      "name": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/training/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "按模块学习 Microsoft 技术，适合先看内容再决定是否考证。",
+      "limits": "自学模块可免费阅读；认证考试、讲师培训及自建云资源可能收费。"
+    },
+    {
+      "id": "mdn",
+      "category": "learn",
+      "name": "MDN Learn Web Development",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "从 HTML、CSS 和 JavaScript 开始学习网页开发，并查阅参考文档。",
+      "limits": "这里收录的是公开文档与教程；其他订阅产品不在免费范围内。"
+    },
+    {
+      "id": "freecodecamp",
+      "category": "learn",
+      "name": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/learn",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "用交互练习和项目学习编程，按课程要求完成自己的作品。",
+      "limits": "需要自己完成练习；学习记录或证书不等于学历、职业资格或就业保证。"
+    },
+    {
+      "id": "cs50",
+      "category": "learn",
+      "name": "Harvard CS50x",
+      "url": "https://cs50.harvard.edu/x/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "免费查看计算机科学课程材料，通过题目和最终项目练习。",
+      "limits": "开放课程可免费学习；付费认证、学分及其他课程选项需单独核对，不等于哈佛学籍。"
+    },
+    {
+      "id": "mit-ocw",
+      "category": "learn",
+      "name": "MIT OpenCourseWare",
+      "url": "https://ocw.mit.edu/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "免费阅读 MIT 公开课程材料，按具体课程选择讲义、作业或视频。",
+      "limits": "不同课程的材料完整度不同；公开材料不包含 MIT 学籍、学分或学位。"
+    },
+    {
+      "id": "python-tutorial",
+      "category": "learn",
+      "name": "The Python Tutorial",
+      "url": "https://docs.python.org/3/tutorial/",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "跟随官方教程练习 Python 语法、数据结构、模块和异常处理。",
+      "limits": "更适合已有基本编程概念的人；阅读时核对文档版本与本机 Python 版本。"
+    },
+    {
+      "id": "pro-git",
+      "category": "learn",
+      "name": "Pro Git",
+      "url": "https://git-scm.com/book/en/v2",
+      "region": "Online",
+      "checkedAt": "2026-10-26",
+      "description": "免费在线阅读 Git 书籍，理解提交、分支和协作流程。",
+      "limits": "免费范围是在线书籍；纸质版本与第三方服务可能收费。"
+    },
+    {
+      "id": "study-australia",
+      "category": "life",
+      "name": "Study Australia — Living and education costs",
+      "url": "https://www.studyaustralia.gov.au/en/life-in-australia/living-and-education-costs",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "查看官方生活与学习成本信息，为来澳前做预算提供起点。",
+      "limits": "免费的是信息；不代表生活费、学费免费，也不保证个人预算或签证要求。"
+    },
+    {
+      "id": "fair-work",
+      "category": "life",
+      "name": "Fair Work Ombudsman — Visa holders and migrants",
+      "url": "https://www.fairwork.gov.au/find-help-for/visa-holders-migrants",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "查找面向签证持有人和移民的工作权益说明及官方求助入口。",
+      "limits": "这是官方信息入口，不代替个案法律意见；工作权利与签证工作条件须分别核实。"
+    },
+    {
+      "id": "scamwatch",
+      "category": "life",
+      "name": "Scamwatch",
+      "url": "https://www.scamwatch.gov.au/",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "了解常见骗局、识别方法和官方报告渠道。",
+      "limits": "信息与报告入口不保证追回款项；不在公开 Issue 中提交个人资料或交易证据。"
+    },
+    {
+      "id": "accc-consumers",
+      "category": "life",
+      "name": "ACCC — Consumers",
+      "url": "https://www.accc.gov.au/consumers",
+      "region": "Australia",
+      "checkedAt": "2026-10-26",
+      "description": "查找消费者权益、价格宣传和商品或服务问题的官方说明。",
+      "limits": "免费的是公开说明；不保证退款，个别纠纷的处理机构与程序需另查。"
+    },
+    {
+      "id": "slv",
+      "category": "library",
+      "name": "State Library Victoria — Free Access",
+      "url": "https://www.slv.vic.gov.au/membership/",
+      "region": "Victoria",
+      "checkedAt": "2026-10-26",
+      "description": "维州居民可了解免费数字借阅卡及电子书、报刊等资源。",
+      "limits": "居住地、身份验证和各数据库许可限制适用；只收录 Free Access，不包含付费会员或收费服务。"
+    },
+    {
+      "id": "slq",
+      "category": "library",
+      "name": "State Library of Queensland — Membership",
+      "url": "https://www.slq.qld.gov.au/services/membership",
+      "region": "Queensland",
+      "checkedAt": "2026-10-26",
+      "description": "了解免费会员及电子书、报刊和在线课程；昆州居民可查远程访问资格。",
+      "limits": "远程电子资源受居住地和许可限制，部分资源只限馆内；设备、材料与其他服务的收费单独核对。"
+    },
+    {
+      "id": "australian-museum",
+      "category": "visit",
+      "name": "Australian Museum",
+      "url": "https://australian.museum/visit/",
+      "region": "Sydney, NSW",
+      "checkedAt": "2026-10-26",
+      "description": "在悉尼免费参观普通展区，先选好想看的自然历史与文化馆藏。",
+      "limits": "普通入馆免费，主要特别展览可能收费；交通、停车与餐饮不包含。"
+    },
+    {
+      "id": "queensland-museum",
+      "category": "visit",
+      "name": "Queensland Museum Kurilpa",
+      "url": "https://www.museum.qld.gov.au/kurilpa/plan-your-visit/hours-and-admission",
+      "region": "Brisbane, Queensland",
+      "checkedAt": "2026-10-26",
+      "description": "在布里斯班安排一次免费普通入馆，参观馆藏展区。",
+      "limits": "SparkLab、部分展览与活动收费；出发前查开放情况，不把所有体验视为免费。"
+    },
+    {
+      "id": "ngv",
+      "category": "visit",
+      "name": "National Gallery of Victoria",
+      "url": "https://www.ngv.vic.gov.au/plan-your-visit/",
+      "region": "Melbourne, Victoria",
+      "checkedAt": "2026-10-26",
+      "description": "在墨尔本免费参观 NGV International 或 NGV Australia 的普通展区。",
+      "limits": "特别展览可能收费，部分展厅可能临时关闭；出发前查展览与开放情况。"
+    }
+  ]
+}
