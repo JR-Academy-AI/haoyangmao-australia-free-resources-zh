@@ -8,16 +8,12 @@
 
 共 **35 条资源**。最后一次编辑核实：**2026-10-26（澳洲布里斯班日期）**。核实指查看官方公开说明，不代表逐一完成注册、资格审批、课程或现场体验，也不代表之后持续监测。资源条目可直接在下方完整阅读，不必跳转薅羊毛才能看到清单。
 
-
-
-
 <!-- local-growth:start -->
 ## 直接打开完整方案与实用工具
 
 [学生工具方案](guides/student-toolkit.md) · [三城免费半日计划](guides/free-weekends.md) · [可运行计算模块](tools/README.md) · [学生清单](checklists/student-checklist.md) · [出行清单](checklists/outing-checklist.md)
 
-完整指南与工具已公开；网站新增专题仍在发布，现有公开详情链接继续使用。
-
+网站也可直接体验：[完整学生方案](https://deals.jracademy.ai/free-resources/student-toolkit/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=student_toolkit_intro) · [免费半日计划](https://deals.jracademy.ai/free-resources/free-weekends/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=weekends_intro) · [在线回本计算器](https://deals.jracademy.ai/tools/membership-calculator/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=calculator_intro) · [完整清单与下载](https://deals.jracademy.ai/free-resources/checklists/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=checklists_intro)。无需先注册，计算输入不上传。
 
 ![薅羊毛 / Haoyangmao — 澳洲实用资源](share/social-preview.png)
 
@@ -470,7 +466,6 @@
 ## 看完清单，继续找适合自己的资源
 
 打开 [薅羊毛的澳洲免费资源与优惠目录](https://deals.jracademy.ai/free-resources/?utm_source=github&utm_medium=referral&utm_campaign=free_resources_zh&utm_content=readme_footer)，先读具体资源的完整条件和参与步骤，再前往官方来源。目录包含提前整理的公开资料；最新价格、资格与开放情况仍须到提供方核对。无需为了看公开说明先注册。
-
 
 ## 收录与维护
 
